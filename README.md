@@ -101,4 +101,4 @@ Dies ist nur der Beginn von Sarahs Reise in die Welt der Event Driven Architectu
 
 ## Lizenz
 
-Dieses Projekt steht unter der MIT-Lizenz. Weitere Informationen finden Sie in der Datei `LICENSE`.
+Dieses Projekt steht unter der Creative Commons Legal Code-Lizenz. Weitere Informationen finden Sie in der Datei `LICENSE`.
